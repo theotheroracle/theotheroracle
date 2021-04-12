@@ -8,6 +8,6 @@ i have aspirations to do some form of podcast / video channel / thing, but that'
 
 if you have any questions for me, all of my socials and personal info are listed on my fedi page https://is.badat.dev/theotheroracle, feel free to say hi ✨
 
-if you would like to donate to me and my work, please do so on librepay :
+if you would like to donate to me and my work, please do so on liberapay :
 
 <a href="https://liberapay.com/theotheroracle/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
