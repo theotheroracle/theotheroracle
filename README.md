@@ -1,4 +1,4 @@
-## heya, i'm skaira .
+## heya, i'm bit .
 
 you may know me as the creator and admin of the apothercary, and whilst that is my main role, i do also do some behind the scenes work, and also have a few personal projects that are related to it . 
 
