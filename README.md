@@ -1,12 +1,14 @@
-## heya, i'm bit .
+## heya, i'm tau .
 
-you may know me as the creator and admin of the apothercary, and whilst that is my main role, i do also do some behind the scenes work, and also have a few personal projects that are related to it . 
+things have changed a lot since i last updated this, let's start over .
 
-my current main project is https://github.com/theotheroracle/midnight-client which i would like to be the official client of the apothecary when it's finished ^~^
+# my aspirations are grand, but my energy is not
 
-i have aspirations to do some form of podcast / video channel / thing, but that's still in pretty early stages, so don't hold your breath for that one .
+the closest thing i have right now to a project is neutron, which is a nixos configuration i'm working on which should someday accomplish something similar to snowflake, but with VR support, via another projects called saturn . i'll provide links if you ask, but i don't want to link them here till they're more finished .
 
-if you have any questions for me, all of my socials and personal info are listed on my fedi page https://is.badat.dev/theotheroracle, feel free to say hi ✨
+i do still have aspirations to do some form of podcast / video channel / thing, but it's never left the planning phase, so don't hold your breath for that one .
+
+i'm not really active on socials, and i don't really have any desire to post them publically here . if you know me you'll know how to reach me, otherwise, shoot me an email at theotheroracle@disroot.org . 
 
 if you would like to donate to me and my work, please do so on liberapay :
 
